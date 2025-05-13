@@ -29,23 +29,12 @@ finaldf image is the merged csv file .
 
 ![Preview](images/K-meansOutput-image.png)
 
-Genre Distribution (Top 5)
-1. Action (34.6%)
-2. Adventure (23.1%)
-3. Sci-Fi (20.5%)
-4. Thriller (14.5%)
-5. Drama (7.3%)
+Genre Distribution
 
 ![Preview](images/GenreDistribution-image.png)
 
 
 CLUSTERS:
-
-Cluster 1: 0.5% (Action, Adventure)
-Cluster 2: 0.5% (Thriller, Drama)
-Cluster 3: 0.5% (Sci-Fi, Action)
-Cluster 4: 0.5% (Adventure, Thriller)
-Cluster 5: 0.5% (Drama, Sci-Fi)
 
 Barplot : 
 ![Preview](images/clusterBarPlot-image.png)
@@ -90,5 +79,11 @@ Found it interesting or have suggestions? I'd love to hear from you!
 Drop a ⭐ if you liked it, or raise an issue if something's off.
 
 ---
+## Tool Used :
 
-Made with ❤️ by Tulasi
+- [Visual Studio Code](https://code.visualstudio.com/) – Code editing and version control.
+- [Kaggle](https://www.kaggle.com/) – Used to access the TMDB dataset and experiment in notebooks.
+
+## References :
+
+- [TMDB 5000 Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
