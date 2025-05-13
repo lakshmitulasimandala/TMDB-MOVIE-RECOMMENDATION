@@ -1,0 +1,17 @@
+# Ignore virtual environments
+.env/
+movie-recomenv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter autosaves
+.ipynb_checkpoints/
+
+# Ignore OS-specific clutter
+*.DS_Store
+Thumbs.db
+
+# Ignore SQLite DBs or other local files
+*.sqlite3
